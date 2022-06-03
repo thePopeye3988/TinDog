@@ -1,2 +1,1 @@
-# TinDog
-This Repository hosts my TinDog website
+TinDog Starting Files
